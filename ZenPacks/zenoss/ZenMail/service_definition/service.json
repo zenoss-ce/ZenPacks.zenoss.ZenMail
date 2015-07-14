@@ -55,7 +55,7 @@
        "ChangeOptions": [],
        "RAMCommitment": "1G",
        "CPUCommitment": 1,
-       "Launch": "auto",
+       "Launch": "manual",
        "LogConfigs": [
            {
                "LogTags": [

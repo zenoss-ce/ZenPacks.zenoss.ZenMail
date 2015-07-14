@@ -38,7 +38,7 @@
            {
                "Name": "zenmail_smtp",
                "Application": "zenmail_smtp",
-               "PortNumber": 25,
+               "PortNumber": 50025,
                "Protocol": "tcp",
                "Purpose": "export",
                "AddressConfig": {
@@ -49,7 +49,7 @@
        ],
        "ImageID": "",
        "Instances": {
-           "default": 1
+           "default": 1,
            "max": 1
        },
        "ChangeOptions": [],
